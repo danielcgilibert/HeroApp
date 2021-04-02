@@ -3,7 +3,8 @@ import { AuthContext } from '../../auth/AuthContext';
 import { types } from '../../types/types';
 
 export const LoginScreen = ({ history }) => {
-    const {dispatch} = useContext(AuthContext)
+    const {dispatch} = useContext(AuthContext);
+    const lastPatch = localStorage.getItem('lastPath') || '/';
     const handleClick = () => {
         // history.push('/marvel') 
         // history.replace('/marvel')
@@ -14,7 +15,7 @@ export const LoginScreen = ({ history }) => {
             }
         });
 
-        history.replace('/');
+        history.replace(lastPatch);
 
     }
     return (
