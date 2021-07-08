@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/HeroeApp/static/css/main.afd7172b.chunk.css",
+    "main.js": "/HeroeApp/static/js/main.09ef7c59.chunk.js",
+    "main.js.map": "/HeroeApp/static/js/main.09ef7c59.chunk.js.map",
+    "runtime-main.js": "/HeroeApp/static/js/runtime-main.141adf0e.js",
+    "runtime-main.js.map": "/HeroeApp/static/js/runtime-main.141adf0e.js.map",
+    "static/js/2.a6581879.chunk.js": "/HeroeApp/static/js/2.a6581879.chunk.js",
+    "static/js/2.a6581879.chunk.js.map": "/HeroeApp/static/js/2.a6581879.chunk.js.map",
+    "index.html": "/HeroeApp/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/HeroeApp/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.a6581879.chunk.js.LICENSE.txt": "/HeroeApp/static/js/2.a6581879.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.141adf0e.js",
+    "static/js/2.a6581879.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.09ef7c59.chunk.js"
+  ]
+}
