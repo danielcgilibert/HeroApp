@@ -12,7 +12,7 @@ Para instalar  siga estos pasos:
 
 Linux, Windows, macOS:
 ```
-git clone https://github.com/danielcgilibert/HeroeApp.git
+git clone https://github.com/danielcgilibert/HeroApp.git
 ```
 
 ```
